@@ -3,7 +3,7 @@ package com.keyin;
 public class Car {
 
     private String teamName;
-    private String driver;
+    private Driver driver;
     private String raceClass;
     private boolean active;
 
